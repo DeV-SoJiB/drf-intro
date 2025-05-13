@@ -1,4 +1,4 @@
-Projec Feafures
+Project Feafures :
 
 1. Token Authentication with JWT ✅
 2. Permission Classes ✅
